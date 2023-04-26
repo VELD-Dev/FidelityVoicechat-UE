@@ -4,9 +4,9 @@ At term, this plugin will also have its own version on Unity.
 The code is open source so people can modify it and port it to custom engines.
 
 ## FAQ
-- Q: **Will it be fully usable in Blueprint ?**
+- Q: **Will it be fully usable in Blueprint ?** 
 A: **Yes.**
-- Q: **Is it compatible with Surround, 5.1 and 7.1+ ?**
+- Q: **Is it compatible with Surround, 5.1 and 7.1+ ?** 
 A: **Yes, however compatibility tests must be done with Dolby audio systems.**
 
 ### Note of the developer
